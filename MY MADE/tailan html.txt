@@ -1,0 +1,323 @@
+<table style="float: left; width: 100%;">
+<tbody>
+<tr style="width: 100%;">
+<td>&nbsp;</td>
+<td style="width: 19%; vertical-align: top; text-align: right; height: 10px;">3-ХЯЭ-1</td>
+</tr>
+<tr>
+<td style="padding: 10px !important;">
+<p style="text-align: center;"><span style="font-size: 20px;"> <strong>БАРИВЧЛАХ БАЙРНЫ #filteryear_string# ОНЫ #filtermonth# ДУГААР САРЫН МЭДЭЭ</strong> </span></p>
+</td>
+</tr>
+<tr>
+<td>
+<table>
+<tbody>
+<tr>
+<td style="width: 50%; line-height: 24px;"><strong> <strong>А. Хаягийн хэсэг <br /> </strong> </strong>
+<table class="pf-report-table-solid" style="height: 86px; width: 408px;" border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="width: 210px;">Регистрийн дугаар 5803241</td>
+</tr>
+<tr>
+<td style="width: 210px;">Байгууллагын нэр ШШГЕГ</td>
+</tr>
+<tr>
+<td style="width: 210px;">Аймаг, нийслэл Улаанбаатар хот</td>
+</tr>
+<tr>
+<td style="width: 210px;">Хаяг Чингэлтэй дүүрэг, Бага тойруу 13-1</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="vertical-align: top;">
+<table class="pf-report-table-dashed">
+<tbody>
+<tr style="height: 12px;">
+<td style="width: 436px; height: 12px;" colspan="2"><strong>Б.Үндсэн мэдээлэл</strong></td>
+<td style="width: 437px; text-align: right; height: 12px;" colspan="2">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="pf-report-table-dashed" style="width: 100%; float: left;" border="1" cellspacing="0" cellpadding="0">
+<thead>
+<tr style="height: 0px !important; border: #FFF;">
+<th style="width: 6%;">&nbsp;</th>
+<th style="text-align: left; vertical-align: middle; width: 30%;">&nbsp;</th>
+<th style="text-align: center; vertical-align: middle;">&nbsp;</th>
+<th style="text-align: center; vertical-align: middle;">&nbsp;</th>
+<th style="text-align: center; vertical-align: middle;">&nbsp;</th>
+<th style="text-align: center; vertical-align: middle;">&nbsp;</th>
+<th style="text-align: center; vertical-align: middle;">&nbsp;</th>
+<th style="width: 22%;">&nbsp;</th>
+</tr>
+</thead>
+<tbody>
+<tr style="height: 24px;">
+<td style="width: 42%; text-align: center; vertical-align: middle;" colspan="2" rowspan="2">Үзүүлэлт</td>
+<td style="width: 8%; text-align: center; vertical-align: middle;" rowspan="2">МД</td>
+<td style="width: 22%; text-align: center; vertical-align: middle;" colspan="2">насанд хүрсэн</td>
+<td style="width: 22%; text-align: center; vertical-align: middle;" colspan="2">өсвөр насны</td>
+<td style="width: 22%; text-align: center; vertical-align: middle;" rowspan="2">Нийт сэжигтэн</td>
+</tr>
+<tr style="height: 24px;">
+<td style="text-align: center; vertical-align: middle;">эрэгтэй</td>
+<td style="text-align: center; vertical-align: middle;">эмэгтэй</td>
+<td style="text-align: center; vertical-align: middle;">эрэгтэй</td>
+<td style="text-align: center; vertical-align: middle;">эмэгтэй</td>
+</tr>
+<tr style="height: 24px;">
+<td style="text-align: left; vertical-align: middle;" colspan="2">Тайлант хугацааны эхэнд</td>
+<td style="text-align: center; vertical-align: middle;">1</td>
+<td style="text-align: center; vertical-align: middle;">#b11#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b12#&nbsp;</td>
+<td style="text-align: center; ]vertical-align: middle;">#b13#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b14#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b15#&nbsp;</td>
+</tr>
+<tr style="height: 24px;">
+<td style="text-align: left; vertical-align: middle;" colspan="2">Нэмэгдсэн мөр 2=/3+4/</td>
+<td style="text-align: center; vertical-align: middle;">2</td>
+<td style="text-align: center; vertical-align: middle;">&nbsp;#b21#</td>
+<td style="text-align: center; vertical-align: middle;">#b22#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b23#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b24#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b25#&nbsp;</td>
+</tr>
+<tr style="height: 24px;">
+<td style="text-align: left; vertical-align: middle; padding-left: 25px !important;" colspan="2">Шинээр баривчлагдсан</td>
+<td style="text-align: center; vertical-align: middle;">3</td>
+<td style="text-align: center; vertical-align: middle;">&nbsp;#b31#</td>
+<td style="text-align: center; vertical-align: middle;">#b32#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b33#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b34#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b35#&nbsp;</td>
+</tr>
+<tr style="height: 24px;">
+<td style="text-align: left; vertical-align: middle; padding-left: 25px !important;" colspan="2">Баривчлах байр сольж ирсэн</td>
+<td style="text-align: center; vertical-align: middle;">4</td>
+<td style="text-align: center; vertical-align: middle;">&nbsp;#b41#</td>
+<td style="text-align: center; vertical-align: middle;">#b42#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b43#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b44#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b45#&nbsp;</td>
+</tr>
+<tr style="height: 24px;">
+<td style="text-align: left; vertical-align: middle;" colspan="2">Хасагдсан мөр 5=/6+7+8+9+10/</td>
+<td style="text-align: center; vertical-align: middle;">5</td>
+<td style="text-align: center; vertical-align: middle;">&nbsp;#b51#</td>
+<td style="text-align: center; vertical-align: middle;">#b52#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b53#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b54#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b55#&nbsp;</td>
+</tr>
+<tr style="height: 24px;">
+<td style="text-align: left; vertical-align: middle; padding-left: 25px !important;" colspan="2">Яллагдагчаар татагдаж цагдан хорих байранд шилжсэн</td>
+<td style="text-align: center; vertical-align: middle;">6</td>
+<td style="text-align: center; vertical-align: middle;">&nbsp;#b61#</td>
+<td style="text-align: center; vertical-align: middle;">#b62#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b63#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b64#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b65#&nbsp;</td>
+</tr>
+<tr style="height: 24px;">
+<td style="text-align: left; vertical-align: middle; padding-left: 25px !important;" colspan="2">Суллагдсан</td>
+<td style="text-align: center; vertical-align: middle;">7</td>
+<td style="text-align: center; vertical-align: middle;">&nbsp;#b71#</td>
+<td style="text-align: center; vertical-align: middle;">#b72#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b73#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b74#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b75#&nbsp;</td>
+</tr>
+<tr style="height: 24px;">
+<td style="text-align: left; vertical-align: middle; padding-left: 25px !important;" colspan="2">Баривчлах байр сольж явсан</td>
+<td style="text-align: center; vertical-align: middle;">8</td>
+<td style="text-align: center; vertical-align: middle;">&nbsp;#b81#</td>
+<td style="text-align: center; vertical-align: middle;">#b82#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b83#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b84#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b85#&nbsp;</td>
+</tr>
+<tr style="height: 24px;">
+<td style="text-align: left; vertical-align: middle; padding-left: 25px !important;" colspan="2">Оргон зайлсан</td>
+<td style="text-align: center; vertical-align: middle;">9</td>
+<td style="text-align: center; vertical-align: middle;">&nbsp;#b91#</td>
+<td style="text-align: center; vertical-align: middle;">#b92#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b93#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b94#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b95#&nbsp;</td>
+</tr>
+<tr style="height: 24px;">
+<td style="text-align: left; vertical-align: middle; padding-left: 25px !important;" colspan="2">Нас барсан мөр 10=11+12+13+14/</td>
+<td style="text-align: center; vertical-align: middle;">10</td>
+<td style="text-align: center; vertical-align: middle;">&nbsp;#b1001#</td>
+<td style="text-align: center; vertical-align: middle;">#b1002#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b1003#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b1004#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b1005#&nbsp;</td>
+</tr>
+<tr style="height: 24px;">
+<td style="text-align: left; vertical-align: middle;" rowspan="4">
+<div style="position: relative; height: 139px; width: 50px; margin-left: 13px; ding-right: 10px; writing-mode: tb-rl; filter: flipv fliph; transform: rotate(-180deg); bottom: 39px;">Шалтгаан</div>
+</td>
+<td style="text-align: left; vertical-align: middle;">Өвчний улмаас</td>
+<td style="text-align: center; vertical-align: middle;">11</td>
+<td style="text-align: center; vertical-align: middle;">#b1101#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b1102#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b1103#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b1104#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b1105#&nbsp;</td>
+</tr>
+<tr style="height: 24px;">
+<td style="text-align: left; vertical-align: middle;">Санаатай аллагын улмаас</td>
+<td style="text-align: center; vertical-align: middle;">12</td>
+<td style="text-align: center; vertical-align: middle;">&nbsp;#b1401#</td>
+<td style="text-align: center; vertical-align: middle;">#b1402#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b1403#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b1404#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b1405#&nbsp;</td>
+</tr>
+<tr style="height: 24px;">
+<td style="text-align: left; vertical-align: middle;">Амиа хорлож</td>
+<td style="text-align: center; vertical-align: middle;">13</td>
+<td style="text-align: center; vertical-align: middle;">&nbsp;#b1401#</td>
+<td style="text-align: center; vertical-align: middle;">#b1402#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b1403#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b1404#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b1405#&nbsp;</td>
+</tr>
+<tr style="height: 24px;">
+<td style="text-align: left; vertical-align: middle;">бусад шалтгаанаар</td>
+<td style="text-align: center; vertical-align: middle;">14</td>
+<td style="text-align: center; vertical-align: middle;">&nbsp;#b1401#</td>
+<td style="text-align: center; vertical-align: middle;">#b1402#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b1403#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b1404#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b1405#&nbsp;</td>
+</tr>
+<tr style="height: 24px;">
+<td style="text-align: left; vertical-align: middle;" colspan="2">Тайлант хугацааны эцэст мөр15=/1+2-5/, мөр16+17/, /18+19+20+21+22/</td>
+<td style="text-align: center; vertical-align: middle;">15</td>
+<td style="text-align: center; vertical-align: middle;">&nbsp;#b1501#</td>
+<td style="text-align: center; vertical-align: middle;">#b1502#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b1503#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b1504#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b1505#&nbsp;</td>
+</tr>
+<tr style="height: 24px;">
+<td style="text-align: left; vertical-align: middle;" rowspan="2">
+<div style="position: relative; height: 60px; width: 50px; margin-left: 3px; ding-right: 10px; writing-mode: tb-rl; filter: flipv fliph; transform: rotate(-180deg); bottom: 0; text-align: center;">Хоригдож байгаа хугацаа</div>
+</td>
+<td style="text-align: left; vertical-align: middle;">0-24 цаг</td>
+<td style="text-align: center; vertical-align: middle;">16</td>
+<td style="text-align: center; vertical-align: middle;">&nbsp;#b1601#</td>
+<td style="text-align: center; vertical-align: middle;">#b1602#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b1603#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b1604#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b1605#&nbsp;</td>
+</tr>
+<tr style="height: 24px;">
+<td style="text-align: left; vertical-align: middle;">25-48 цаг</td>
+<td style="text-align: center; vertical-align: middle;">17</td>
+<td style="text-align: center; vertical-align: middle;">#b1701#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b1702#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b1703#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b1704#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b1705#&nbsp;</td>
+</tr>
+<tr style="height: 24px;">
+<td style="text-align: left; vertical-align: middle;" rowspan="4">
+<div style="position: relative; height: 139px; width: 50px; margin-left: 13px; ding-right: 10px; writing-mode: tb-rl; filter: flipv fliph; transform: rotate(-180deg); bottom: 14px;">Улсын харьяалал</div>
+</td>
+<td style="text-align: left; vertical-align: middle;">Монгол улс</td>
+<td style="text-align: center; vertical-align: middle;">18</td>
+<td style="text-align: center; vertical-align: middle;">&nbsp;#b1801#</td>
+<td style="text-align: center; vertical-align: middle;">#b1802#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b1803#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b1804#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b1805#&nbsp;</td>
+</tr>
+<tr style="height: 24px;">
+<td style="text-align: left; vertical-align: middle;">БНХАУ</td>
+<td style="text-align: center; vertical-align: middle;">19</td>
+<td style="text-align: center; vertical-align: middle;">&nbsp;#b1901#</td>
+<td style="text-align: center; vertical-align: middle;">#b1902#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b1903#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b1904#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b1905#&nbsp;</td>
+</tr>
+<tr style="height: 24px;">
+<td style="text-align: left; vertical-align: middle;">ОХУ</td>
+<td style="text-align: center; vertical-align: middle;">20</td>
+<td style="text-align: center; vertical-align: middle;">&nbsp;#b2001#</td>
+<td style="text-align: center; vertical-align: middle;">#b2002#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b2003#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b2004#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b2005#&nbsp;</td>
+</tr>
+<tr style="height: 24px;">
+<td style="text-align: left; vertical-align: middle;">Бусад улс</td>
+<td style="text-align: center; vertical-align: middle;">21</td>
+<td style="text-align: center; vertical-align: middle;">#b2201#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b2202#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b2203#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b2204#&nbsp;</td>
+<td style="text-align: center; vertical-align: middle;">#b2205#&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<table class="pf-report-table-dotted" style="float: left; width: 100%;">
+<tbody>
+<tr style="height: 13px;">
+<td style="width: 169px; height: 80px;" rowspan="6">
+<p style="text-align: center;">Тамга тэмдэг</p>
+</td>
+<td style="width: 171px; text-align: left; height: 26px;" rowspan="2">Баталгаажуулсан:</td>
+<td style="width: 171px; height: 13px; text-align: right;"><br />................................</td>
+<td style="width: 171px; height: 13px; text-align: right;">. <br />...............................</td>
+<td style="width: 171px; height: 13px; text-align: right;"><br />................................</td>
+</tr>
+<tr style="height: 13px;">
+<td style="width: 171px; height: 13px; text-align: right;">&nbsp; &nbsp;/Албан тушаал/&nbsp;</td>
+<td style="width: 171px; height: 13px; text-align: right;">/Нэр/</td>
+<td style="width: 171px; height: 13px; text-align: right;">&nbsp;/Гарын үсэг/</td>
+</tr>
+<tr style="height: 13px;">
+<td style="width: 171px; height: 26px;" rowspan="2">Хянасан:</td>
+<td style="width: 171px; height: 13px; text-align: right;"><br />................................</td>
+<td style="width: 171px; height: 13px; text-align: right;"><br />................................</td>
+<td style="width: 171px; height: 13px; text-align: right;">. <br />...............................</td>
+</tr>
+<tr style="height: 13px;">
+<td style="width: 171px; height: 13px; text-align: right;">&nbsp; &nbsp;/Албан тушаал/&nbsp;</td>
+<td style="width: 171px; height: 13px; text-align: right;">/Нэр/</td>
+<td style="width: 171px; height: 13px; text-align: right;">&nbsp;/Гарын үсэг/</td>
+</tr>
+<tr style="height: 14px;">
+<td style="width: 171px; height: 28px;" rowspan="2">Мэдээ гаргасан:</td>
+<td style="width: 171px; height: 14px; text-align: right;"><br />................................</td>
+<td style="width: 171px; height: 14px; text-align: right;"><br />................................</td>
+<td style="width: 171px; height: 14px; text-align: right;"><br />................................</td>
+</tr>
+<tr style="height: 14px;">
+<td style="width: 171px; height: 14px; text-align: right;">/Албан тушаал/&nbsp;</td>
+<td style="width: 171px; height: 14px; text-align: right;">/Нэр/</td>
+<td style="width: 171px; height: 14px; text-align: right;">/Гарын үсэг/</td>
+</tr>
+<tr>
+<td style="text-align: center; vertical-align: middle;" colspan="5"><br />20 . . .&nbsp; оны&nbsp; . . .&nbsp; сарын . . .өдөр</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,40 @@
+<table style="height: 253px;" width="1195">
+<tbody>
+<tr style="height: 48px;">
+<td style="width: 457.031px; height: 48px; text-align: left;">&nbsp;&nbsp;&nbsp;&nbsp; Үндэсний статистикийн хорооны даргын <br /> &nbsp;зөвшөөрснөөр, Хууль зүй, дотоод хэргийн <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;сайдын 20.... оны ..... -р сарын ..... -ны <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;өдрийн ..... тоот тушаалаар батлав.</td>
+<td style="width: 738.281px; text-align: right; height: 48px;">3-ХЯЭА-5-1</td>
+</tr>
+<tr style="height: 63px;">
+<td style="width: 1204.53px; text-align: center; height: 63px;" colspan="2"><center><strong>&nbsp;&nbsp;<br /><br /><span style="font-size: 20px;">НАСНЫ БҮЛГЭЭР ДЭЛГЭРЭНГҮЙ МЭДЭЭ</span><br /><br /></strong></center></td>
+</tr>
+<tr style="height: 94px;">
+<td style="width: 457.031px; text-align: left; height: 94px;"><strong>А. Хаягийн хэсэг&nbsp;<br /><br /></strong>
+<table class="pf-report-table-solid" style="width: 99.8525%;" border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="width: 40%; height: 20px;">&nbsp;Регистрийн дугаар</td>
+<td style="width: 8%; height: 20px;">&nbsp;</td>
+<td style="width: 8%; height: 20px;">&nbsp;</td>
+<td style="width: 8%; height: 20px;">&nbsp;</td>
+<td style="width: 8%; height: 20px;">&nbsp;</td>
+<td style="width: 8%; height: 20px;">&nbsp;</td>
+<td style="width: 8%; height: 20px;">&nbsp;</td>
+<td style="width: 8%; height: 20px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 28%; height: 20px;">&nbsp;Байгууллагын нэр</td>
+<td style="width: 70%;" colspan="7">&nbsp; &nbsp;&nbsp;#filter_department_id#</td>
+</tr>
+<tr>
+<td style="width: 28%; height: 20px;">&nbsp;Аймаг, нийслэл</td>
+<td style="width: 70%;" colspan="7">&nbsp; &nbsp; &nbsp;&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="height: 12px;">
+<td style="width: 457.031px; text-align: left; height: 12px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
