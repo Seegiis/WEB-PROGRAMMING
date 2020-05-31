@@ -1,0 +1,47 @@
+.tbl1 {
+	width: 25%;
+	background:  #e6ecff;
+	color: black;
+	font-family: 'Times New Roman', Times, serif;
+}
+.left {
+	text-align: left;
+}
+.center {
+	text-align: center;
+}
+.right {
+	text-align: right;
+}
+.right:hover, .left:hover{
+background-color: gray; 
+}
+.tbl2 {
+	width: 25%;
+	background: #ccd9ff;
+	color: black;
+	table-layout: fixed;
+	font-family: 'Times New Roman', Times, serif;
+}
+.tbl3 {
+	width: 25%;
+	background: #b3c6ff;
+	color: black;
+	table-layout: fixed;
+	font-family: 'Times New Roman', Times, serif;
+}
+.gray {
+	text-align: center;
+	color: 	 #002db3;
+}
+.black {
+	text-align: center;
+	color: black;
+}
+td:hover{
+	background-color: gray; 
+}
+table,td, th{
+	border border-bottom-style: 5px;
+	margin: 1px;
+}
