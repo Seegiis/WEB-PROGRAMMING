@@ -1,0 +1,125 @@
+div{
+  text-align: top;
+}
+
+.A{
+  background-color: #eeeff2;
+
+  width:100px;
+    height: 150px;
+    font-size: 40px;
+     text-align:top;
+     font-family: tahoma;
+     font-size: 40px;
+       display: inline-block;
+        border-left: 10px dotted #D0D0FF;
+   white-space: nowrap;
+    border-width: 10px;
+    margin-left:10px;
+  }  
+ .B{
+ background-color: #eeeff2;
+  width:100px;
+    height: 150px;
+    font-size: 40px;
+     text-align:center;
+     font-family: tahoma;
+     font-size: 40px;
+       display: inline-block;
+        border-left: 10px dotted #D0D0FF;
+   white-space: nowrap;
+    border-width: 10px;
+    margin-left: 10px;
+  
+  }
+.C{
+ background-color: #eeeff2;
+  width:100px;
+    height: 150px;
+    font-size: 40px;
+     text-align:center;
+     font-family: tahoma;
+     font-size: 40px;
+       display: inline-block;
+        border-left: 10px dotted #D0D0FF;
+   white-space: nowrap;
+    border-width: 10px;
+    margin-left: 10px;
+  }
+  .D{
+    background-color: #eeeff2;
+  width:100px;
+    height: 150px;
+    font-size: 40px;
+     text-align:center;
+     font-family: tahoma;
+     font-size: 40px;
+       display: inline-block;
+        border-left: 10px dotted #D0D0FF;
+   white-space: nowrap;
+    border-width: 10px;
+    margin-left: 10px;
+  }
+  
+   .E{
+  background-color: #eeeff2;
+  width:100px;
+    height: 150px;
+    font-size: 40px;
+     text-align:center;
+     font-family: tahoma;
+     font-size: 40px;
+       display: inline-block;
+        border-left: 10px dotted #D0D0FF;
+   white-space: nowrap;
+    border-width: 10px;
+    margin-left: 10px;
+  }
+ .F{
+  background-color: #eeeff2;
+  width:100px;
+    height: 150px;
+    font-size: 40px;
+     text-align:center;
+     font-family: tahoma;
+     font-size: 40px;
+       display: inline-block;
+        border-left: 10px dotted #D0D0FF;
+   white-space: nowrap;
+    border-width: 10px;
+    position: absolute; bottom:1vw; right: 1vw
+
+    }
+
+    .A:hover{
+      background-color: yellow;
+      color:goldenrod;
+    }
+
+  .B:hover{
+      background-color: yellow;
+      color:goldenrod;
+    }
+
+  .C:hover{
+      background-color: yellow;
+      color:goldenrod;
+    }
+
+  .D:hover{
+      background-color: yellow;
+      color:goldenrod;
+    }
+
+  .E:hover{
+      background-color: yellow;
+      color:goldenrod;
+    }
+      .F:hover{
+      background-color: yellow;
+      color:goldenrod;
+    }
+
+
+
+
